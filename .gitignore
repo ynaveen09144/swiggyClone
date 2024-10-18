@@ -1,0 +1,4 @@
+/node_modules
+/dist
+/preti.prettierrc
+.parcel-cache
